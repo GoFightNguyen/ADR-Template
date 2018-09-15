@@ -6,7 +6,7 @@ The format follows Michael Nygard's proposal for [Architecture Decision Records]
 ## Install the custom item
 Add [ADR.md](./ADR.md) to `C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\NewFileItems`.
 
-Restart Visual Studio if you had it open.
+Restart Visual Studio if open.
 
 The item is now listed in the __General Category__ of the __Add New Item__ dialog for a solution.
      
